@@ -576,7 +576,7 @@ export default function Home() {
               Take the full course. Practice for 30 days. If you don't find shodo meditative, therapeutic, or rewarding—if it doesn't give you what we promised—email us. Full refund. No questions.
             </p>
             <p className="font-medium">
-              We're confident because this works. Not because we're good marketers. Because shodo has worked for 500 years.
+              We're confident because shodo has worked for 500 years.
             </p>
           </div>
         </div>
