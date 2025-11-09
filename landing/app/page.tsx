@@ -454,7 +454,7 @@ export default function Home() {
                 Start With What You Have
               </h3>
               <p className="text-charcoal/70">
-                Can't get a brush yet? Start TODAY with just a pen and paper. Master Tanaka shows you how to practice the fundamentals with tools you already own.
+                Can't get a brush yet? Start TODAY with just a pen and paper. Master Kaoru shows you how to practice the fundamentals with tools you already own.
               </p>
               <p className="text-sm text-charcoal/60">
                 Upgrade to brush when you're ready
