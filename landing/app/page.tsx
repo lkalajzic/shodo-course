@@ -571,6 +571,52 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Objections Section */}
+      <section className="py-20 px-6">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-4xl md:text-5xl font-light text-center mb-16">
+            "But What If..."
+          </h2>
+
+          <div className="space-y-8 text-lg leading-relaxed">
+            <div className="bg-warmGray/30 rounded-lg p-8">
+              <h3 className="text-2xl font-light mb-4">"The supplies seem expensive..."</h3>
+              <p className="text-charcoal/80">
+                You don't need specialized Japanese imports. The Materials Guide shows you exactly what to buy on Amazon for ~$30. Or start with just a pen and paper—Master Kaoru teaches you the fundamentals with tools you already own. No expensive ink stones or handmade brushes required to begin.
+              </p>
+            </div>
+
+            <div className="bg-warmGray/30 rounded-lg p-8">
+              <h3 className="text-2xl font-light mb-4">"I don't know any Japanese..."</h3>
+              <p className="text-charcoal/80">
+                You don't need to. You're not learning a language—you're learning an art form. Many students start by writing their own name in kanji, or simple characters like 心 (heart) or 愛 (love). The Kanji Meaning Library tells you what each character means. You'll appreciate the beauty first, learn the meaning as you go.
+              </p>
+            </div>
+
+            <div className="bg-warmGray/30 rounded-lg p-8">
+              <h3 className="text-2xl font-light mb-4">"It seems messy... I live in a small apartment"</h3>
+              <p className="text-charcoal/80">
+                Shodo setup fits on a desk or coffee table. Modern sumi ink comes in convenient bottles (no grinding ink stones for hours). Lay down newspaper or a plastic mat. Cleanup takes 2 minutes. You need less space than painting, less mess than pottery, less equipment than most hobbies.
+              </p>
+            </div>
+
+            <div className="bg-warmGray/30 rounded-lg p-8">
+              <h3 className="text-2xl font-light mb-4">"I don't have time for hours of daily practice..."</h3>
+              <p className="text-charcoal/80">
+                You don't need hours. 10-15 minutes is enough for a meaningful practice session. Write one character with full attention. That's more valuable than an hour of distracted scrolling. This isn't about becoming a master—it's about being present. Even once a week is enough.
+              </p>
+            </div>
+
+            <div className="bg-warmGray/30 rounded-lg p-8">
+              <h3 className="text-2xl font-light mb-4">"What if I waste expensive paper making mistakes?"</h3>
+              <p className="text-charcoal/80">
+                <span className="font-medium">Mistakes are the point.</span> In shodo, there's no "undo." That's what makes it powerful. And practice paper costs pennies per sheet. Master Kaoru teaches you to embrace imperfection—your "mistakes" have more personality than perfect strokes. The philosophy is literally built around accepting what you create.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* FAQ Section */}
       <section className="py-20 px-6 bg-warmGray/30">
         <div className="max-w-4xl mx-auto">
@@ -630,6 +676,33 @@ export default function Home() {
               </summary>
               <p className="mt-4 text-charcoal/80 leading-relaxed">
                 Neither were most of Master Kaoru's students. Shodo doesn't require artistic talent. It requires willingness to be present with a brush. The rest comes with practice.
+              </p>
+            </details>
+
+            <details className="bg-cream rounded-lg p-6 cursor-pointer">
+              <summary className="font-medium text-lg">
+                Do I need a lot of space or special setup?
+              </summary>
+              <p className="mt-4 text-charcoal/80 leading-relaxed">
+                No. Shodo fits on a desk, coffee table, or even your lap with a board. Modern sumi ink comes in bottles (no grinding required). Lay down newspaper for easy cleanup. You need less space than watercolor painting.
+              </p>
+            </details>
+
+            <details className="bg-cream rounded-lg p-6 cursor-pointer">
+              <summary className="font-medium text-lg">
+                How much time do I need to practice?
+              </summary>
+              <p className="mt-4 text-charcoal/80 leading-relaxed">
+                Even 10-15 minutes is enough for a meaningful session. Write one character with full attention. That's more valuable than an hour of distracted activity. Practice weekly, daily, or whenever you need to disconnect—there's no minimum requirement.
+              </p>
+            </details>
+
+            <details className="bg-cream rounded-lg p-6 cursor-pointer">
+              <summary className="font-medium text-lg">
+                What if I waste paper making mistakes?
+              </summary>
+              <p className="mt-4 text-charcoal/80 leading-relaxed">
+                Practice paper costs pennies per sheet. And in shodo, "mistakes" aren't failures—they're your unique expression. The philosophy embraces imperfection. Master Kaoru teaches you to see your natural style, not fight it.
               </p>
             </details>
 
