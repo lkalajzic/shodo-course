@@ -4,7 +4,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'Japanese Calligraphy School - Learn Shodo from a 40-Year Master',
-  description: 'Learn shodo—the ancient Japanese art of meditative calligraphy. Master Kenji Tanaka teaches you to express what words cannot. Screen-free. Mindful. Real.',
+  description: 'Learn shodo from Master Kaoru Tanaka. 40 years in Kamakura, teaching online for the first time. Express what words cannot say.',
   icons: {
     icon: '/favicon.ico',
     apple: '/apple-touch-icon.png',
