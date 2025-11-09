@@ -142,8 +142,8 @@ export default function Home() {
             {/* Master Portrait */}
             <div className="order-2 md:order-1">
               <Image
-                src="/master-tanaka.jpg"
-                alt="Master Kenji Tanaka at his calligraphy desk in Kamakura"
+                src="/master-kaoru.jpg"
+                alt="Master Kaoru Tanaka at her calligraphy desk in Kamakura"
                 width={1200}
                 height={1600}
                 className="w-full h-auto rounded-lg"
@@ -154,10 +154,10 @@ export default function Home() {
             <div className="space-y-6 text-lg leading-relaxed order-1 md:order-2">
               <div className="space-y-4">
                 <p>
-                  For 40 years, Master Kenji Tanaka has practiced shodo (書道) in a small studio in Kamakura.
+                  For 40 years, Master Kaoru Tanaka has practiced shodo (書道) in a small studio in Kamakura.
                 </p>
                 <p>
-                  His grandfather taught him the old way. Not the rigid, academic way they teach in schools. The flowing, meditative way they practiced in temples for centuries.
+                  Her grandfather taught her the old way. Not the rigid, academic way they teach in schools. The flowing, meditative way they practiced in temples for centuries.
                 </p>
                 <p className="font-medium italic">
                   One breath. One stroke. No going back.
@@ -170,7 +170,7 @@ export default function Home() {
 
               <div className="space-y-4">
                 <p className="italic">
-                  "Westerners think shodo is about perfect letters," Master Tanaka says. "They miss the point entirely."
+                  "Westerners think shodo is about perfect letters," Master Kaoru says. "They miss the point entirely."
                 </p>
                 <p className="font-medium">
                   "It's not about perfection. It's about presence. About expressing in one stroke what you could never say in a thousand words."
@@ -185,15 +185,15 @@ export default function Home() {
       <section className="py-20 px-6 bg-warmGray/30">
         <div className="max-w-4xl mx-auto space-y-8 text-lg leading-relaxed">
           <h2 className="text-3xl md:text-4xl font-light text-center mb-8">
-            Why He's Teaching Online For The First Time
+            Why She's Teaching Online For The First Time
           </h2>
 
           <div className="space-y-4">
             <p>
-              Master Tanaka never planned to teach online.
+              Master Kaoru never planned to teach online.
             </p>
             <p>
-              For decades, students traveled to his studio in Kamakura. They sat on tatami mats. They learned the old way—slowly, patiently, in person.
+              For decades, students traveled to her studio in Kamakura. They sat on tatami mats. They learned the old way—slowly, patiently, in person.
             </p>
             <p>But something changed.</p>
           </div>
@@ -202,16 +202,16 @@ export default function Home() {
 
           <div className="space-y-4">
             <p>
-              He watched his daughter's generation—brilliant, creative people—spending their lives staring at screens.
+              She watched her daughter's generation—brilliant, creative people—spending their lives staring at screens.
             </p>
             <p>
               Consuming instead of creating. Anxious instead of present.
             </p>
-            <p className="font-medium">"They need this more than anyone," he realized.</p>
+            <p className="font-medium">"They need this more than anyone," she realized.</p>
           </div>
 
           <h3 className="text-2xl font-light pt-6">
-            His Daughter's Question
+            Her Daughter's Question
           </h3>
 
           <div className="space-y-4">
@@ -219,7 +219,7 @@ export default function Home() {
               "If you don't share this now, this knowledge disappears. They're drowning in digital noise. Shodo could save them."
             </p>
             <p>
-              So for the first time, Master Tanaka is teaching his 40-year practice online.
+              So for the first time, Master Kaoru is teaching her 40-year practice online.
             </p>
             <p className="font-medium">
               Not because it's easier. Because it's necessary.
@@ -421,7 +421,7 @@ export default function Home() {
           </div>
 
           <p className="text-center text-charcoal/70 mt-12 text-lg">
-            Each module includes video instruction from Master Tanaka, practice exercises, and downloadable stroke guides.
+            Each module includes video instruction from Master Kaoru, practice exercises, and downloadable stroke guides.
           </p>
         </div>
       </section>
@@ -563,7 +563,7 @@ export default function Home() {
             <div className="bg-warmGray/30 rounded-lg p-8 space-y-4">
               <p className="text-lg font-medium">"My terrible handwriting doesn't matter"</p>
               <p className="text-charcoal/80">
-                "I was worried my handwriting was too messy. Master Tanaka teaches you that 'messy' IS your style. Now I have three framed pieces in my apartment. People ask where I bought them."
+                "I was worried my handwriting was too messy. Master Kaoru teaches you that 'messy' IS your style. Now I have three framed pieces in my apartment. People ask where I bought them."
               </p>
               <p className="text-sm text-charcoal/60">— Lin M., Toronto</p>
             </div>
@@ -584,7 +584,7 @@ export default function Home() {
                 I have terrible handwriting. Can I really do this?
               </summary>
               <p className="mt-4 text-charcoal/80 leading-relaxed">
-                Yes. Shodo isn't about neat handwriting—it's about expression. Your "messy" strokes have personality that perfect ones don't. Master Tanaka teaches you to embrace your natural hand, not fight it.
+                Yes. Shodo isn't about neat handwriting—it's about expression. Your "messy" strokes have personality that perfect ones don't. Master Kaoru teaches you to embrace your natural hand, not fight it.
               </p>
             </details>
 
@@ -611,7 +611,7 @@ export default function Home() {
                 Is this cultural appropriation?
               </summary>
               <p className="mt-4 text-charcoal/80 leading-relaxed">
-                Master Tanaka's words: "Art doesn't belong to one culture. It belongs to anyone willing to practice with respect. If you honor the tradition, you're welcome."
+                Master Kaoru's words: "Art doesn't belong to one culture. It belongs to anyone willing to practice with respect. If you honor the tradition, you're welcome."
               </p>
             </details>
 
@@ -629,7 +629,7 @@ export default function Home() {
                 What if I'm not artistic?
               </summary>
               <p className="mt-4 text-charcoal/80 leading-relaxed">
-                Neither were most of Master Tanaka's students. Shodo doesn't require artistic talent. It requires willingness to be present with a brush. The rest comes with practice.
+                Neither were most of Master Kaoru's students. Shodo doesn't require artistic talent. It requires willingness to be present with a brush. The rest comes with practice.
               </p>
             </details>
 
@@ -652,7 +652,7 @@ export default function Home() {
             "For 40 years, I have watched students discover something they didn't know they were missing. Not perfect letters. Not wall art. But presence. The ability to be here, now, with nothing but breath and ink. This is what we've lost. This is what shodo returns."
           </p>
           <p className="text-lg text-charcoal/70">
-            — Master Kenji Tanaka
+            — Master Kaoru Tanaka
             <br />
             Kamakura, Japan
           </p>

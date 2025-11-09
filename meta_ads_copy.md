@@ -27,7 +27,7 @@ The philosophy behind it:
 → Mushin: the no-mind flow state
 → Ichigo ichie: this stroke will never exist again
 
-Master Kenji Tanaka has practiced this in Kamakura for 40 years. He's teaching it online for the first time.
+Master Kaoru Tanaka has practiced this in Kamakura for 40 years. She's teaching it online for the first time.
 
 You'll create art with ink and brush. Frame pieces for your walls. Make gifts that carry meaning. Express what you can't put into words.
 
@@ -43,7 +43,7 @@ If this interests you, please check it out!
 When Was The Last Time You Created Something Real?
 
 **Description:**
-Learn shodo from a 40-year Kamakura master. Meditative calligraphy with brush and ink. Express what words cannot say.
+Learn shodo from Master Kaoru Tanaka. 40 years in Kamakura. Meditative calligraphy with brush and ink.
 
 ---
 
@@ -153,7 +153,7 @@ Something meditative. Something real.
 
 Shodo is the Japanese art of brush calligraphy. 500 years old. Deeply therapeutic. Completely screen-free.
 
-Master Kenji Tanaka (40 years in Kamakura) is teaching it online for the first time.
+Master Kaoru Tanaka (40 years in Kamakura) is teaching it online for the first time.
 
 10 minutes of focused practice beats an hour of distracted scrolling.
 
@@ -173,9 +173,9 @@ Japanese brush calligraphy taught by a 40-year master. Meditative, therapeutic, 
 
 Why would a 40-year master teach an ancient art to complete beginners online?
 
-Because he watched a generation drown in screens.
+Because she watched a generation drown in screens.
 
-"They need this more than anyone," Master Tanaka realized.
+"They need this more than anyone," Master Kaoru realized.
 
 Shodo (書道) isn't about perfect letters. It's about presence. Expression. Creating something that could only exist because you made it.
 
@@ -191,7 +191,7 @@ First 50 students: $47.
 This 40-Year Master Knows What You're Missing
 
 **Description:**
-Shodo: Japanese brush calligraphy that forces you into the present moment. Learn from Master Tanaka.
+Shodo: Japanese brush calligraphy that forces you into the present moment. Learn from Master Kaoru.
 
 ---
 

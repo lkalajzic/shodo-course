@@ -26,7 +26,7 @@ export default function ThankYouPage() {
           <ul className="text-left max-w-md mx-auto space-y-2">
             <li>✓ Your course access details</li>
             <li>✓ Materials guide and Amazon links</li>
-            <li>✓ Welcome video from Master Tanaka</li>
+            <li>✓ Welcome video from Master Kaoru</li>
           </ul>
           <p className="pt-4">
             Check your inbox (and spam folder) for an email from us.

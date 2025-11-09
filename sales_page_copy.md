@@ -54,17 +54,17 @@ Something screen-free. Something quiet. Something real.
 
 ---
 
-## Section 4: The Story - Master Tanaka
+## Section 4: The Story - Master Kaoru
 
-For 40 years, Master Kenji Tanaka has practiced shodo (書道) in a small studio in Kamakura.
+For 40 years, Master Kaoru Tanaka has practiced shodo (書道) in a small studio in Kamakura.
 
-**Image:** Master Tanaka at his calligraphy desk, brush in hand
+**Image:** Master Kaoru at her calligraphy desk, brush in hand
 
-His grandfather taught him the old way. Not the rigid, academic way they teach in schools. The flowing, meditative way they practiced in temples for centuries.
+Her grandfather taught her the old way. Not the rigid, academic way they teach in schools. The flowing, meditative way they practiced in temples for centuries.
 
 One breath. One stroke. No going back.
 
-"Westerners think shodo is about perfect letters," Master Tanaka says. "They miss the point entirely."
+"Westerners think shodo is about perfect letters," Master Kaoru says. "They miss the point entirely."
 
 "It's not about perfection. It's about presence. About expressing in one stroke what you could never say in a thousand words."
 
@@ -72,19 +72,19 @@ One breath. One stroke. No going back.
 
 ## Section 5: Story Continuation - Why Now
 
-Master Tanaka never planned to teach online.
+Master Kaoru never planned to teach online.
 
-For decades, students traveled to his studio in Kamakura. They sat on tatami mats. They learned the old way—slowly, patiently, in person.
+For decades, students traveled to her studio in Kamakura. They sat on tatami mats. They learned the old way—slowly, patiently, in person.
 
 But something changed.
 
-He watched his daughter's generation—brilliant, creative people—spending their lives staring at screens. Consuming instead of creating. Anxious instead of present.
+She watched her daughter's generation—brilliant, creative people—spending their lives staring at screens. Consuming instead of creating. Anxious instead of present.
 
-"They need this more than anyone," he realized.
+"They need this more than anyone," she realized.
 
-**His daughter, Yuki, convinced him:** "If you don't share this now, this knowledge disappears. They're drowning in digital noise. Shodo could save them."
+**Her daughter, Akiko, convinced her:** "If you don't share this now, this knowledge disappears. They're drowning in digital noise. Shodo could save them."
 
-So for the first time, Master Tanaka is teaching his 40-year practice online.
+So for the first time, Master Kaoru is teaching her 40-year practice online.
 
 Not because it's easier. Because it's necessary.
 
@@ -119,7 +119,7 @@ It forces you into the moment in a way nothing digital ever could.
 
 ## Section 7: What You'll Learn (Course Modules)
 
-Master Tanaka breaks down his 40-year practice into 5 clear modules:
+Master Kaoru breaks down her 40-year practice into 5 clear modules:
 
 **Module 1: The Fundamentals of Presence**
 - Setting up your space (you don't need much)
@@ -151,7 +151,7 @@ Master Tanaka breaks down his 40-year practice into 5 clear modules:
 - Gift-worthy pieces: Names in kanji, meaningful phrases
 - The lifetime practice: Where you go from here
 
-Each module includes video instruction from Master Tanaka, practice exercises, and downloadable stroke guides.
+Each module includes video instruction from Master Kaoru, practice exercises, and downloadable stroke guides.
 
 ---
 
@@ -163,7 +163,7 @@ Each module includes video instruction from Master Tanaka, practice exercises, a
 Exact links to everything you need on Amazon and specialty suppliers. No guessing. No overbuying. Just what works, nothing you don't need. (Budget option ~$30, premium option ~$60)
 
 ### Bonus #2: Start With What You Have ($37 value)
-Can't get a brush yet? Start TODAY with just a pen and paper. Master Tanaka shows you how to practice the fundamentals with tools you already own. Upgrade to brush when you're ready.
+Can't get a brush yet? Start TODAY with just a pen and paper. Master Kaoru shows you how to practice the fundamentals with tools you already own. Upgrade to brush when you're ready.
 
 ### Bonus #3: Kanji Meaning Library ($47 value)
 100+ kanji with meanings, pronunciations, and cultural context. Pick characters that resonate with you—not just random symbols, but words that carry weight.
@@ -183,7 +183,7 @@ Can't get a brush yet? Start TODAY with just a pen and paper. Master Tanaka show
 ### Everything You Get:
 
 **The Complete Course:**
-- 5 comprehensive modules with Master Tanaka ($97)
+- 5 comprehensive modules with Master Kaoru ($97)
 - Video instruction in flowing, meditative technique ($97)
 - Practice exercises & downloadable guides ($47)
 
@@ -221,14 +221,14 @@ We're confident because this works. Not because we're good marketers. Because sh
 "I'm a software engineer. I spend 12 hours a day on computers. Shodo is the only thing that truly disconnects me. It's therapy without talking." — *James K., Austin*
 
 **"My terrible handwriting doesn't matter"**
-"I was worried my handwriting was too messy. Master Tanaka teaches you that 'messy' IS your style. Now I have three framed pieces in my apartment. People ask where I bought them." — *Lin M., Toronto*
+"I was worried my handwriting was too messy. Master Kaoru teaches you that 'messy' IS your style. Now I have three framed pieces in my apartment. People ask where I bought them." — *Lin M., Toronto*
 
 ---
 
 ## Section 12: FAQ
 
 **"I have terrible handwriting. Can I really do this?"**
-Yes. Shodo isn't about neat handwriting—it's about expression. Your "messy" strokes have personality that perfect ones don't. Master Tanaka teaches you to embrace your natural hand, not fight it.
+Yes. Shodo isn't about neat handwriting—it's about expression. Your "messy" strokes have personality that perfect ones don't. Master Kaoru teaches you to embrace your natural hand, not fight it.
 
 **"Do I need to buy expensive materials?"**
 No. The Materials Guide shows you exactly what to buy for ~$30 on Amazon. Or start with just a pen and paper (Bonus #2) and upgrade to a brush when you're ready.
@@ -237,13 +237,13 @@ No. The Materials Guide shows you exactly what to buy for ~$30 on Amazon. Or sta
 You don't need to. The course includes a Kanji Meaning Library with pronunciations and cultural context. You'll learn what you're writing and why it matters.
 
 **"Is this cultural appropriation?"**
-Master Tanaka's words: "Art doesn't belong to one culture. It belongs to anyone willing to practice with respect. If you honor the tradition, you're welcome."
+Master Kaoru's words: "Art doesn't belong to one culture. It belongs to anyone willing to practice with respect. If you honor the tradition, you're welcome."
 
 **"I don't have time for another hobby."**
 Shodo takes as much time as you give it. 10 minutes of focused practice is more valuable than an hour of distracted scrolling. It's not about hours—it's about presence.
 
 **"What if I'm not artistic?"**
-Neither were most of Master Tanaka's students. Shodo doesn't require artistic talent. It requires willingness to be present with a brush. The rest comes with practice.
+Neither were most of Master Kaoru's students. Shodo doesn't require artistic talent. It requires willingness to be present with a brush. The rest comes with practice.
 
 **"What's the refund policy?"**
 30 days, full refund, no questions asked. Try the course. If it's not for you, email us.
@@ -252,10 +252,10 @@ Neither were most of Master Tanaka's students. Shodo doesn't require artistic ta
 
 ## Section 13: Final CTA
 
-**Quote from Master Tanaka:**
+**Quote from Master Kaoru:**
 *"For 40 years, I have watched students discover something they didn't know they were missing. Not perfect letters. Not wall art. But presence. The ability to be here, now, with nothing but breath and ink. This is what we've lost. This is what shodo returns."*
 
-— Master Kenji Tanaka
+— Master Kaoru Tanaka
 Kamakura, Japan
 
 **[BEGIN YOUR PRACTICE - $47]**
@@ -272,7 +272,7 @@ Kamakura, Japan
 
 **Title:** Japanese Calligraphy School - Learn Shodo from a 40-Year Master
 
-**Meta Description:** Learn shodo—the ancient Japanese art of meditative calligraphy. Master Kenji Tanaka teaches you to express what words cannot. Screen-free. Mindful. Real.
+**Meta Description:** Learn shodo—the ancient Japanese art of meditative calligraphy. Master Kaoru Tanaka teaches you to express what words cannot. Screen-free. Mindful. Real.
 
 **OG Image:** Hero image of brush creating bold stroke
 
@@ -298,7 +298,7 @@ Kamakura, Japan
 
 1. Hero: Brush creating bold stroke in black ink
 2. Scrolling vs calligraphy setup comparison
-3. Master Tanaka at his desk (elderly Japanese man, traditional studio)
+3. Master Kaoru at her desk (elegant Japanese woman, 60s, traditional studio)
 4. Finished shodo work (bold kanji on washi paper)
 5. Multiple finished pieces for above-pricing section
 6. Materials setup (brush, ink, paper)
