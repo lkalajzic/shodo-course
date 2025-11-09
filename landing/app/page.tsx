@@ -131,7 +131,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Story Section - Master Tanaka */}
+      {/* Story Section - Master Kaoru */}
       <section className="py-20 px-6">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-light text-center mb-16">
@@ -502,7 +502,7 @@ export default function Home() {
 
           <div className="bg-cream rounded-lg p-8 md:p-12 space-y-6 mb-12">
             <div className="space-y-3">
-              <p className="text-lg"><span className="text-red">✓</span> 5 comprehensive modules with Master Tanaka</p>
+              <p className="text-lg"><span className="text-red">✓</span> 5 comprehensive modules with Master Kaoru</p>
               <p className="text-lg"><span className="text-red">✓</span> Video instruction in flowing, meditative technique</p>
               <p className="text-lg"><span className="text-red">✓</span> Practice exercises & downloadable guides</p>
               <p className="text-lg"><span className="text-red">✓</span> Complete Materials Guide ($27 value)</p>
