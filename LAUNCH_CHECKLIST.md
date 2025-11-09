@@ -8,24 +8,20 @@
 - [x] Meta ads copy written (3 variations in `meta_ads_copy.md`)
 - [x] Thank you page created
 - [x] Git repo initialized
+- [x] **Master changed to female: Master Kaoru Tanaka** (田中薫) - better targeting for Western audience
+- [x] **Daughter: Akiko** (秋子) - convinces her to teach online
+- [x] **Stripe payment link added:** https://buy.stripe.com/bJe14o4me6rxfEJ9js43S01
+- [x] **GTM configured:** GTM-T2WBNF7X
+- [x] **.env.local created** with Stripe URL
 
 ## 🚀 NEXT STEPS (In Order)
 
-### 1. Create Stripe Payment Link
+### 1. ~~Create Stripe Payment Link~~ ✅ DONE
 
-**Action:** Go to Stripe Dashboard → Payment Links → Create New
-
-**Settings:**
-- **Product name:** Japanese Calligraphy School - Shodo Course
-- **Price:** $47 USD
-- **Success URL:** https://japanesecalligraphy.school/thank-you
-- **Collect customer email:** Yes
-- **Allow promotion codes:** Optional
-
-**Then:**
-- Copy the payment link URL
-- Create `/Users/luka/Documents/coding/shodo-course/landing/.env.local`
-- Add: `NEXT_PUBLIC_STRIPE_PAYMENT_LINK=https://buy.stripe.com/YOUR_LINK_HERE`
+**Already configured!**
+- Payment link: https://buy.stripe.com/bJe14o4me6rxfEJ9js43S01
+- Success URL should be set to: https://japanesecalligraphy.school/thank-you
+- .env.local already has the Stripe URL
 
 ---
 
@@ -68,14 +64,14 @@
 **Create FB Page:**
 - Page name: Japanese Calligraphy School
 - Category: Education / Online Course
-- Upload logo.jpg as profile pic
+- Upload logo.jpg as profile pic (in `/landing/public/logo.jpg`)
 - Bio (see below)
 
 **FB Page Bio:**
 ```
 Learn shodo (書道)—the ancient Japanese art of meditative calligraphy.
 
-Taught by Master Kenji Tanaka, a 40-year practitioner in Kamakura.
+Taught by Master Kaoru Tanaka, a 40-year practitioner in Kamakura.
 
 Screen-free. Mindful. Real.
 
@@ -91,7 +87,7 @@ Start your practice → japanesecalligraphy.school
 
 ### 5. Google Tag Manager Setup
 
-**Good news:** GTM is already configured! (`GTM-WL7ZGB88`)
+**Good news:** GTM is already configured! (`GTM-T2WBNF7X`)
 
 **Add Facebook Pixel in GTM:**
 
@@ -150,9 +146,9 @@ The landing page expects these files in `/landing/public/`:
    - Or: Traditional calligraphy setup (brush, ink, paper)
    - Size: 800x800px
 
-3. **`master-tanaka.jpg`** - Story section
-   - Elderly Japanese man at calligraphy desk
-   - Traditional studio setting, focused on work
+3. **`master-kaoru.jpg`** - Story section
+   - Elegant Japanese woman (60s) at calligraphy desk
+   - Traditional studio setting, serene and focused
    - Size: 1200x1600px (portrait)
 
 4. **`shodo-finished.jpg`** - Above pricing
@@ -167,7 +163,7 @@ The landing page expects these files in `/landing/public/`:
 
 **Prompts for AI image generation:**
 1. Hero: "Japanese calligraphy brush creating bold black ink stroke on white washi paper, minimalist, dramatic, close-up, professional photography"
-2. Master: "Elderly Japanese calligraphy master working at traditional desk in Kamakura studio, serene, focused, natural lighting, photorealistic"
+2. Master Kaoru: "Elegant Japanese woman in her 60s practicing shodo calligraphy at traditional desk in Kamakura studio, serene, focused, natural lighting, photorealistic, peaceful atmosphere"
 3. Finished work: "Bold Japanese kanji character in black ink on cream washi paper, minimalist composition, museum quality, overhead shot"
 
 ---
