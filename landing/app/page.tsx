@@ -27,7 +27,7 @@ export default function Home() {
 
           {/* Subheadline */}
           <p className="text-xl md:text-2xl text-charcoal/80 max-w-3xl mx-auto leading-relaxed font-light">
-            Learn shodo—the ancient Japanese art of expressing what words alone cannot say.
+            Learn shodo—the ancient Japanese art of expressing what words alone cannot say. Master Kaoru Tanaka shares her 40-year Kamakura practice online for the first time.
           </p>
 
           {/* Hero Image */}
