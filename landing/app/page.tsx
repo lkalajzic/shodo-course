@@ -8,7 +8,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative min-h-screen flex flex-col items-center justify-center px-6 py-20">
         {/* Background Kanji */}
-        <div className="absolute inset-0 flex items-center justify-center opacity-[0.05] pointer-events-none">
+        <div className="absolute inset-0 flex items-center justify-center opacity-[0.03] pointer-events-none">
           <span className="text-[30rem] font-serif text-charcoal leading-none">
             侘寂
           </span>
