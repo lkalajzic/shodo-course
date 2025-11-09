@@ -872,7 +872,7 @@ export default function Home() {
               </summary>
               <p className="mt-4 text-charcoal/80 leading-relaxed">
                 30 days, full refund, no questions asked. Try the course. If
-                it's not for you, email us.
+                it's not for you, email us at support@japanesecalligraphy.school.
               </p>
             </details>
           </div>
@@ -901,8 +901,17 @@ export default function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="py-12 px-6 bg-charcoal text-cream/60 text-center text-sm">
+      <footer className="py-12 px-6 bg-charcoal text-cream/60 text-center text-sm space-y-2">
         <p>© 2025 Japanese Calligraphy School. All rights reserved.</p>
+        <p>
+          Questions? Email us at{" "}
+          <a
+            href="mailto:support@japanesecalligraphy.school"
+            className="text-cream/80 hover:text-cream underline"
+          >
+            support@japanesecalligraphy.school
+          </a>
+        </p>
       </footer>
     </main>
   );
