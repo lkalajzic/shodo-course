@@ -1,10 +1,13 @@
 import StripeButton from "./components/StripeButton";
 import StripeButtonAlt from "./components/StripeButtonAlt";
+import CountdownTimer from "./components/CountdownTimer";
+import StickyHeader from "./components/StickyHeader";
 import Image from "next/image";
 
 export default function Home() {
   return (
     <main className="overflow-hidden">
+      <StickyHeader />
       {/* Hero Section */}
       <section className="relative min-h-screen flex flex-col items-center justify-center px-6 py-20">
         {/* Background Kanji */}
@@ -21,16 +24,9 @@ export default function Home() {
           </p>
 
           {/* Main Headline */}
-          <h1 className="text-6xl md:text-8xl font-light tracking-tight">
-            When was the last time you created something real?
+          <h1 className="text-4xl md:text-5xl font-light tracking-tight max-w-3xl mx-auto leading-relaxed">
+            Learn shodo from Master Kaoru Tanaka—40 years of practice in Kamakura—online for the first time (Learn In 3 Hours)
           </h1>
-
-          {/* Subheadline */}
-          <p className="text-xl md:text-2xl text-charcoal/80 max-w-3xl mx-auto leading-relaxed font-light">
-            Learn shodo—the ancient Japanese art of expressing what words alone
-            cannot say from Master Kaoru Tanaka, with her 40-year Kamakura
-            practice, online for the first time.
-          </p>
 
           {/* Hero Image */}
           <div className="mt-12 rounded-lg overflow-hidden shadow-2xl max-w-4xl mx-auto">
@@ -639,7 +635,7 @@ export default function Home() {
       </section>
 
       {/* Pricing Section */}
-      <section className="py-20 px-6 bg-warmGray/30">
+      <section id="pricing-section" className="py-20 px-6 bg-warmGray/30">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-light text-center mb-12">
             Everything You Get
@@ -652,7 +648,7 @@ export default function Home() {
                 Master Kaoru
               </p>
               <p className="text-lg">
-                <span className="text-red">✓</span> Video instruction in
+                <span className="text-red">✓</span> 3 hours of video instruction in
                 flowing, meditative technique
               </p>
               <p className="text-lg">
@@ -705,6 +701,8 @@ export default function Home() {
               We're confident because shodo has worked for 500 years.
             </p>
           </div>
+
+          <CountdownTimer />
         </div>
       </section>
 
