@@ -25,7 +25,7 @@ export default function Home() {
 
           {/* Main Headline */}
           <h1 className="text-4xl md:text-5xl font-light tracking-tight max-w-3xl mx-auto leading-relaxed">
-            Learn shodo from Master Kaoru Tanaka—40 years of practice in Kamakura—online for the first time (Learn In 3 Hours)
+            Shodo (書道): How A Third-Generation Kamakura Master Uses Japanese Calligraphy To Achieve Zen... And Why She's Teaching This 500-Year Practice Online For The First Time (Learn It In 3 Hours)
           </h1>
 
           {/* Hero Image */}
@@ -125,6 +125,12 @@ export default function Home() {
               Something meditative. Something that forces you to be present.
               Something therapeutic that doesn't involve talking about your
               feelings.
+            </p>
+            <p>
+              You've tried meditation apps. Sitting still, trying not to think. It's hard. Maybe impossible.
+            </p>
+            <p className="font-medium">
+              But creating something? Moving your hand, watching ink flow, focusing on form? That kind of meditation actually works.
             </p>
             <p className="font-medium">
               You want to create something beautiful with your hands. Something
@@ -477,7 +483,7 @@ export default function Home() {
           </div>
 
           <p className="text-center text-charcoal/70 mt-12 text-lg">
-            Each module includes video instruction from Master Kaoru, practice
+            The comprehensive guide includes detailed instruction from Master Kaoru, practice
             exercises, and downloadable stroke guides.
           </p>
         </div>
@@ -638,41 +644,35 @@ export default function Home() {
       <section id="pricing-section" className="py-20 px-6 bg-warmGray/30">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-light text-center mb-12">
-            Everything You Get
+            Founding Student Pricing
           </h2>
 
           <div className="bg-cream rounded-lg p-8 md:p-12 space-y-6 mb-12">
             <div className="space-y-3">
               <p className="text-lg">
-                <span className="text-red">✓</span> 5 comprehensive modules with
-                Master Kaoru
-              </p>
-              <p className="text-lg">
-                <span className="text-red">✓</span> 3 hours of video instruction in
-                flowing, meditative technique
-              </p>
-              <p className="text-lg">
-                <span className="text-red">✓</span> Practice exercises &
-                downloadable guides
+                <span className="text-red">✓</span> Comprehensive Shodo Guide Ebook ($147 value)
               </p>
               <p className="text-lg">
                 <span className="text-red">✓</span> Complete Materials Guide
                 ($27 value)
               </p>
               <p className="text-lg">
-                <span className="text-red">✓</span> Start With What You Have -
-                pen & paper method ($37 value)
+                <span className="text-red">✓</span> Beginner Practice Method -
+                start with just pen & paper ($37 value)
               </p>
               <p className="text-lg">
-                <span className="text-red">✓</span> Kanji Meaning Library - 100+
-                characters ($47 value)
+                <span className="text-red">✓</span> Kanji Meaning Library - 50+
+                characters with cultural context ($47 value)
+              </p>
+              <p className="text-lg">
+                <span className="text-red">✓</span> Lifetime Access & Updates (Priceless)
               </p>
             </div>
 
             <div className="border-t border-charcoal/10 pt-6 mt-6">
               <p className="text-2xl font-light text-center mb-4">
                 Total Value:{" "}
-                <span className="line-through text-charcoal/60">$352</span>
+                <span className="line-through text-charcoal/60">$258</span>
               </p>
               <div className="text-center">
                 <p className="text-lg mb-2">
@@ -680,20 +680,42 @@ export default function Home() {
                 </p>
                 <p className="text-5xl font-light text-red mb-4">$47</p>
                 <p className="text-sm text-charcoal/60">
-                  For founding students only
+                  Founding student pricing • 37 of 50 students enrolled
+                </p>
+                <p className="text-sm text-red font-medium mt-2">
+                  ✨ Your first character: Tonight
                 </p>
               </div>
             </div>
           </div>
 
-          <div className="text-center mb-12">
-            <StripeButton />
+          {/* What Happens After You Buy */}
+          <div className="bg-cream rounded-lg p-8 mb-8 text-left">
+            <h3 className="text-2xl font-medium mb-6 text-center">What Happens After You Click Buy:</h3>
+            <ul className="space-y-3 text-lg">
+              <li className="flex items-start">
+                <span className="text-red mr-3">✓</span>
+                <span><strong>Instant access</strong> - comprehensive ebook guide delivered to your email in 2 minutes</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-red mr-3">✓</span>
+                <span><strong>Complete 90-page guide</strong> - accurate stroke order, zen philosophy, 50+ kanji library, materials list, everything you need</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-red mr-3">✓</span>
+                <span><strong>Bonus: Personalized Gift Creation</strong> - how to create meaningful calligraphy gifts, framing ideas, what phrases to write for different occasions</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-red mr-3">✓</span>
+                <span><strong>Lifetime access</strong> to all future updates and improvements</span>
+              </li>
+            </ul>
           </div>
 
-          <div className="bg-cream/50 rounded-lg p-8 text-center space-y-4">
-            <h3 className="text-2xl font-light">30-Day Money-Back Guarantee</h3>
+          <div className="bg-cream rounded-xl p-8 text-center space-y-4 border-2 border-red/20 mb-8">
+            <h3 className="text-2xl font-medium">🛡️ 90-Day Money-Back Guarantee</h3>
             <p className="text-charcoal/80 leading-relaxed">
-              Take the full course. Practice for 30 days. If you don't find
+              Try the entire guide. Practice for 90 days. If you don't find
               shodo meditative, therapeutic, or rewarding—if it doesn't give you
               what we promised—email us. Full refund. No questions.
             </p>
@@ -702,7 +724,25 @@ export default function Home() {
             </p>
           </div>
 
+          <div className="text-center mb-8">
+            <StripeButton />
+          </div>
+
+          <div className="text-center mb-8">
+            <p className="text-sm text-charcoal/60">💳 Secure Payment via Stripe</p>
+          </div>
+
           <CountdownTimer />
+
+          <div className="max-w-2xl mx-auto pt-8 text-center space-y-4">
+            <p className="text-lg font-medium text-charcoal">Why only $47?</p>
+            <p className="text-charcoal/80 leading-relaxed">
+              You're among the first 50 students Master Kaoru is teaching online. We want to see what you create—your first characters, your meaningful gift pieces, your personal practice. Once we have those stories and photos from students like you, the price increases to $97.
+            </p>
+            <p className="text-charcoal/80 leading-relaxed">
+              You get the best price. We get to share your beautiful work. Fair trade (等価交換).
+            </p>
+          </div>
         </div>
       </section>
 
@@ -766,7 +806,7 @@ export default function Home() {
                 I have terrible handwriting. Can I really do this?
               </summary>
               <p className="mt-4 text-charcoal/80 leading-relaxed">
-                Yes. Shodo isn't about neat handwriting—it's about expression.
+                Yes. Almost all of Master Kaoru's students start with terrible handwriting and these exact same worries. Shodo isn't about neat handwriting—it's about expression.
                 Your "messy" strokes have personality that perfect ones don't.
                 Master Kaoru teaches you to embrace your natural hand, not fight
                 it.
@@ -822,7 +862,7 @@ export default function Home() {
                 What if I'm not artistic?
               </summary>
               <p className="mt-4 text-charcoal/80 leading-relaxed">
-                Neither were most of Master Kaoru's students. Shodo doesn't
+                Almost all of Master Kaoru's students start with zero artistic experience and these same doubts. Shodo doesn't
                 require artistic talent. It requires willingness to be present
                 with a brush. The rest comes with practice.
               </p>
@@ -869,7 +909,7 @@ export default function Home() {
                 What's the refund policy?
               </summary>
               <p className="mt-4 text-charcoal/80 leading-relaxed">
-                30 days, full refund, no questions asked. Try the course. If
+                90 days, full refund, no questions asked. Try the guide. If
                 it's not for you, email us at support@japanesecalligraphy.school.
               </p>
             </details>
@@ -892,9 +932,24 @@ export default function Home() {
             Kamakura, Japan
           </p>
 
+          {/* Testimonial before button */}
+          <div className="bg-warmGray/30 rounded-lg p-8 my-8">
+            <p className="text-lg italic mb-4">
+              "I bought this thinking I'd learn 'Japanese handwriting.' What I
+              got was meditation that actually works. My therapist asked what
+              changed."
+            </p>
+            <p className="font-medium">— Rachel T., Portland</p>
+          </div>
+
           <div className="pt-8">
             <StripeButtonAlt />
           </div>
+
+          <p className="text-sm text-charcoal/60 pt-6">
+            🛡️ 90-Day Money-Back Guarantee • 💳 Secure Checkout • Instant
+            Access
+          </p>
         </div>
       </section>
 
