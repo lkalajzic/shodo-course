@@ -10,8 +10,8 @@ module.exports = {
         cream: '#F8F7F4',
         warmGray: '#E9E7E3',
         charcoal: '#1A1A1A',
-        red: '#8B0000',
-        darkRed: '#6B0000',
+        red: '#D4AF37',
+        darkRed: '#B8941F',
       },
       fontFamily: {
         serif: ['Cormorant Garamond', 'serif'],

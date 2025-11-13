@@ -25,7 +25,7 @@ export default function Home() {
 
           {/* Main Headline */}
           <h1 className="text-4xl md:text-5xl font-light tracking-tight max-w-3xl mx-auto leading-relaxed">
-            Shodo (書道): How A Third-Generation Kamakura Master Uses Japanese Calligraphy To Achieve Zen... And Why She's Teaching This 500-Year Practice Online For The First Time (Learn It In 3 Hours)
+            Shodo: How A Third-Generation Kamakura Master Uses Japanese Calligraphy To Achieve Zen... And Why She's Teaching This 500-Year Practice Online For The First Time (Learn In 3 Hours)
           </h1>
 
           {/* Hero Image */}
