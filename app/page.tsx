@@ -25,7 +25,7 @@ export default function Home() {
 
           {/* Main Headline */}
           <h1 className="text-4xl md:text-5xl font-light tracking-tight max-w-3xl mx-auto leading-relaxed">
-            Learn shodo from Master Kaoru Tanaka—40 years of practice in Kamakura—online for the first time (Learn In 3 Hours)
+            Shodo (書道): How A Third-Generation Kamakura Master Uses Japanese Calligraphy To Achieve Zen... And Why She's Teaching This 500-Year Practice Online For The First Time (Learn It In 3 Hours)
           </h1>
 
           {/* Hero Image */}
@@ -638,71 +638,54 @@ export default function Home() {
       <section id="pricing-section" className="py-20 px-6 bg-warmGray/30">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-light text-center mb-12">
-            Everything You Get
+            Founding Student Pricing
           </h2>
 
-          <div className="bg-cream rounded-lg p-8 md:p-12 space-y-6 mb-12">
-            <div className="space-y-3">
-              <p className="text-lg">
-                <span className="text-red">✓</span> 5 comprehensive modules with
-                Master Kaoru
-              </p>
-              <p className="text-lg">
-                <span className="text-red">✓</span> 3 hours of instruction in
-                flowing, meditative technique
-              </p>
-              <p className="text-lg">
-                <span className="text-red">✓</span> Practice exercises &
-                downloadable guides
-              </p>
-              <p className="text-lg">
-                <span className="text-red">✓</span> Complete Materials Guide
-                ($27 value)
-              </p>
-              <p className="text-lg">
-                <span className="text-red">✓</span> Start With What You Have -
-                pen & paper method ($37 value)
-              </p>
-              <p className="text-lg">
-                <span className="text-red">✓</span> Kanji Meaning Library - 100+
-                characters ($47 value)
-              </p>
+          <div className="space-y-4 text-lg">
+            <p className="text-charcoal/70 text-center">Complete Class Value:</p>
+            <div className="space-y-1 text-charcoal/70 text-center">
+              <p>5 Core Modules - 3 hours ($297)</p>
+              <p>3 Bonus Trainings ($111)</p>
+              <p>Lifetime Access (Priceless)</p>
             </div>
-
-            <div className="border-t border-charcoal/10 pt-6 mt-6">
-              <p className="text-2xl font-light text-center mb-4">
-                Total Value:{" "}
-                <span className="line-through text-charcoal/60">$352</span>
-              </p>
-              <div className="text-center">
-                <p className="text-lg mb-2">
-                  Regular Price: <span className="line-through">$97</span>
-                </p>
-                <p className="text-5xl font-light text-red mb-4">$47</p>
-                <p className="text-sm text-charcoal/60">
-                  For founding students only
-                </p>
-              </div>
-            </div>
+            <p className="text-2xl font-medium pt-4 text-center">Total Value: $408</p>
           </div>
 
-          <div className="text-center mb-12">
+          <div className="py-8">
+            <p className="text-xl line-through text-charcoal/50 mb-2 text-center">
+              Regular Price: $97
+            </p>
+            <p className="text-6xl font-serif text-red mb-4 text-center">$47</p>
+            <p className="text-sm text-charcoal/60 text-center">
+              Founding student pricing • First 50 students
+            </p>
+          </div>
+
+          <div className="text-center mb-8">
             <StripeButton />
           </div>
 
-          <div className="bg-cream/50 rounded-lg p-8 text-center space-y-4">
-            <h3 className="text-2xl font-light">30-Day Money-Back Guarantee</h3>
-            <p className="text-charcoal/80 leading-relaxed">
-              Take the full course. Practice for 30 days. If you don't find
-              shodo meditative, therapeutic, or rewarding—if it doesn't give you
-              what we promised—email us. Full refund. No questions.
+          <div className="pt-8 max-w-lg mx-auto bg-cream rounded-xl p-6 border-2 border-red/20">
+            <p className="text-lg font-medium text-charcoal mb-2">
+              🛡️ 30-Day Money-Back Guarantee
             </p>
-            <p className="font-medium">
-              We're confident because shodo has worked for 500 years.
+            <p className="text-sm text-charcoal/70">
+              Try the entire class. Do your first character. If you don't love it,
+              email us within 30 days for a full refund. No questions asked.
             </p>
           </div>
 
           <CountdownTimer />
+
+          <div className="pt-4 space-y-1 text-sm text-charcoal/60 text-center">
+            <p>💳 Secure Payment via Stripe</p>
+          </div>
+
+          <p className="text-sm text-charcoal/70 max-w-xl mx-auto pt-8 text-center">
+            You're among the first 50 students Master Kaoru is teaching online.
+            After this founding group, the class returns to $97 and we'll be
+            adding live Q&A sessions (which we can't offer yet at this price).
+          </p>
         </div>
       </section>
 
