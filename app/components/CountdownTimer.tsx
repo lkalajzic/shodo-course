@@ -13,8 +13,8 @@ export default function CountdownTimer() {
 
   useEffect(() => {
     setMounted(true);
-    // Target: November 16, 2025 at 11pm CET (10pm UTC)
-    const targetDate = new Date("2025-11-16T22:00:00Z");
+    // Target: November 23, 2025 at 11am CEST (10am UTC)
+    const targetDate = new Date("2025-11-23T10:00:00Z");
 
     const updateTimer = () => {
       const now = new Date();
